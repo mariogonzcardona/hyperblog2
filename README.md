@@ -16,6 +16,9 @@ Pagina web aun en desarrollo para la implementación y visualización de hyperbl
  - Agregar tags y hacer forks a mas repositorios
 
 
+### Software implementado
+* [Visual Studio Code] - Editor de Codigo Abierto para la realizacion del proyecto
+
 License
 ----
 
